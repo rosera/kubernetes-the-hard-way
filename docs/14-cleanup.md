@@ -54,3 +54,5 @@ Delete the `kubernetes-the-hard-way` network VPC:
   gcloud -q compute networks delete kubernetes-the-hard-way
 }
 ```
+
+Previous: [Smoke Test](13-smoke-test.md) 
