@@ -67,4 +67,4 @@ worker-1   Ready    <none>   2m9s   v1.15.3
 worker-2   Ready    <none>   2m9s   v1.15.3
 ```
 
-Next: [Provisioning Pod Network Routes](11-pod-network-routes.md)
+Previous: [Bootstrapping the Kubernetes Worker Nodes](09-bootstrapping-kubernetes-workers.md) | Next: [Provisioning Pod Network Routes](11-pod-network-routes.md)
