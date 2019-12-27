@@ -310,4 +310,4 @@ worker-1   Ready    <none>   15s   v1.15.3
 worker-2   Ready    <none>   15s   v1.15.3
 ```
 
-Next: [Configuring kubectl for Remote Access](10-configuring-kubectl.md)
+Previous: [Bootstrapping the Kubernetes Control Plane](08-bootstrapping-kubernetes-controllers.md) | Next: [Configuring kubectl for Remote Access](10-configuring-kubectl.md)
