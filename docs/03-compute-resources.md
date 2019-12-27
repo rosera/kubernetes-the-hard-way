@@ -226,4 +226,4 @@ logout
 Connection to XX.XXX.XXX.XXX Compute Resourcesclosed
 ```
 
-Previous: [Compute Resources](03-compute-resources.md) | Next: [Provisioning a CA and Generating TLS Certificates](04-certificate-authority.md)
+Previous: [Installing the Client Tools](02-client-tools.md) | Next: [Provisioning a CA and Generating TLS Certificates](04-certificate-authority.md)
