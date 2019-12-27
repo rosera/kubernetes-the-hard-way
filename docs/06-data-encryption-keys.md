@@ -40,4 +40,4 @@ for instance in controller-0 controller-1 controller-2; do
 done
 ```
 
-Next: [Bootstrapping the etcd Cluster](07-bootstrapping-etcd.md)
+Previous: [Generating Kubernetes Configuration Files for Authentication](05-kubernetes-configuration-files.md) | Next: [Bootstrapping the etcd Cluster](07-bootstrapping-etcd.md)
